@@ -7,6 +7,6 @@ I'm Jay, a data scientist living in Bangkok, Thailand.
 * [Pre-clinical Alzheimer Classification](https://github.com/Sirabhop/Preclinical-AD-EEG-classification),
 * [Talk to database](https://github.com/Sirabhop/rbh-data-query)
 * [Semantic search](https://github.com/Sirabhop/mart-semantic-search)
-
+* [LLM from scratch](https://github.com/Sirabhop/llm-from-scratch)
 ## **Contact Me**
 You can reach me at sirabhop.sae@gmail.com
