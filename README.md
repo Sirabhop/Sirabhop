@@ -1,11 +1,12 @@
 ## **Hello** 👋
 I'm Jay, a data scientist living in Bangkok, Thailand.
 ## **Projects**
-* [Recommendation System for the food delivery platform](https://github.com/Sirabhop/poc-food-playlist-recommendation),
-* Recommendation System for the online travel agent platform
+* [Restuarant Recommendation System](https://github.com/Sirabhop/poc-food-playlist-recommendation),
+* [Food Category Recommendation System](https://github.com/Sirabhop/food-category-recommendation)
+* [Hotel Recommendation System](https://github.com/Sirabhop/hotel-recommendation-system)
 * [Pre-clinical Alzheimer Classification](https://github.com/Sirabhop/Preclinical-AD-EEG-classification),
 * [Talk to database](https://github.com/Sirabhop/rbh-data-query)
-* Semantic search
+* [Semantic search](https://github.com/Sirabhop/mart-semantic-search)
 
 ## **Contact Me**
 You can reach me at sirabhop.sae@gmail.com
