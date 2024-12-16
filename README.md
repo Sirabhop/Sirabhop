@@ -13,6 +13,6 @@ Fine-Tuned Models
 
 AI Applications
 * [Talk to database](https://github.com/Sirabhop/rbh-data-query), an POC E2E talk to database that perform NL2SQL.
-* [HR Helpdesk Chatbot System](https://github.com/Sirabhop/rbh-data-query), A chatbot system performs multi-RAG answer relevant questions.
+* [HR Helpdesk Chatbot System](https://github.com/Sirabhop/poc-hr-helpdesk-chatbot), A chatbot system performs multi-RAG answer relevant questions.
 ## **Contact Me**
 You can reach me at sirabhop.sae@gmail.com
