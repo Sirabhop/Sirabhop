@@ -1,5 +1,5 @@
 ## **Hello** 👋
-I'm Jay, a data scientist living in Bangkok, Thailand.
+I'm Jay.
 ## **Projects**
 Trained from Scratch!
 * [Hotel Recommendation System](https://github.com/Sirabhop/hotel-recommendation-system), E2E recommendation system employed BST model.
